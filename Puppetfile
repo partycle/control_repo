@@ -6,7 +6,8 @@ mod 'apache',
   :git => 'https://github.com/partycle/puppet-apache'
   
 
-
+mode 'base',
+  :git => 'https://github.com/partycle/puppet-base'
 
 # Modules from the Puppet Forge
 # Versions should be updated to be the latest at the time you start
